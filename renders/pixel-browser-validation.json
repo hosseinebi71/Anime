@@ -1,0 +1,15 @@
+{
+  "offlinePreview": "passed",
+  "chapterSeeking": "passed",
+  "responsivePreview": "passed",
+  "fullResolutionChromiumPlayback": "passed",
+  "downloadHashMatches": true,
+  "sha256": "abd295b3939d1afda93fbfd17edbc769534315cffb366026de7c341afcbb77e5",
+  "metadata": {
+    "width": 360,
+    "height": 640,
+    "duration": 75.008,
+    "muted": false,
+    "error": null
+  }
+}

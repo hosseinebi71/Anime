@@ -1,0 +1,233 @@
+{
+  "file": "Bobo_Max_Episode_001_Dont_Look_Behind_You.mp4",
+  "bytes": 46632520,
+  "video": {
+    "codec_name": "h264",
+    "profile": "High",
+    "pix_fmt": "yuv420p",
+    "color_range": "tv",
+    "color_space": "bt709",
+    "width": 1080,
+    "height": 1920,
+    "r_frame_rate": "30/1",
+    "nb_frames": "2250"
+  },
+  "audio": {
+    "codec_name": "aac",
+    "profile": "LC",
+    "sample_rate": "48000",
+    "channels": 2
+  },
+  "duration": "75.008000",
+  "fullDecode": "passed",
+  "fastStart": true,
+  "dialoguePhrases": 17,
+  "audibleDialogueWords": 38,
+  "minEncodedWordRMS": 0.08054693717688283,
+  "effects": [
+    {
+      "name": "vibration",
+      "at": 0.65,
+      "decodedRMS": 0.14236484830214322
+    },
+    {
+      "name": "vibration",
+      "at": 7.85,
+      "decodedRMS": 0.013932986614260484
+    },
+    {
+      "name": "scratch",
+      "at": 12.4,
+      "decodedRMS": 0.016140044498384708
+    },
+    {
+      "name": "scratch",
+      "at": 14.8,
+      "decodedRMS": 0.026647522409583665
+    },
+    {
+      "name": "scratch",
+      "at": 17.4,
+      "decodedRMS": 0.008735390045125746
+    },
+    {
+      "name": "vibration",
+      "at": 20,
+      "decodedRMS": 0.02938894784617313
+    },
+    {
+      "name": "vibration",
+      "at": 25.1,
+      "decodedRMS": 0.029153770725208465
+    },
+    {
+      "name": "ring",
+      "at": 30,
+      "decodedRMS": 0.01880411358932121
+    },
+    {
+      "name": "answer",
+      "at": 31.55,
+      "decodedRMS": 0.011707515628234388
+    },
+    {
+      "name": "breath",
+      "at": 44.6,
+      "decodedRMS": 0.015509438172531517
+    },
+    {
+      "name": "breath",
+      "at": 47,
+      "decodedRMS": 0.029825402484912323
+    },
+    {
+      "name": "scratch",
+      "at": 50.7,
+      "decodedRMS": 0.031688766030552214
+    },
+    {
+      "name": "switch",
+      "at": 54.66,
+      "decodedRMS": 0.014070586332086271
+    },
+    {
+      "name": "footstep",
+      "at": 55.9,
+      "decodedRMS": 0.01796249531838875
+    },
+    {
+      "name": "footstep",
+      "at": 56.3,
+      "decodedRMS": 0.08772558429356832
+    },
+    {
+      "name": "footstep",
+      "at": 64.25,
+      "decodedRMS": 0.07078661825484486
+    },
+    {
+      "name": "vacuum",
+      "at": 55.65,
+      "decodedRMS": 0.08462857074532389
+    },
+    {
+      "name": "jacket",
+      "at": 67.3,
+      "decodedRMS": 0.006575812104503078
+    },
+    {
+      "name": "vacuum",
+      "at": 71,
+      "decodedRMS": 0.008419188527509317
+    },
+    {
+      "name": "beep",
+      "at": 72,
+      "decodedRMS": 0.02685345529532729
+    },
+    {
+      "name": "bump",
+      "at": 72.08,
+      "decodedRMS": 0.2719983783157968
+    },
+    {
+      "name": "jump",
+      "at": 72.12,
+      "decodedRMS": 0.25098206342991897
+    },
+    {
+      "name": "sting",
+      "at": 73.4,
+      "decodedRMS": 0.08667544032428876
+    }
+  ],
+  "silenceRMS": [
+    0.0,
+    0.0
+  ],
+  "decodedMonoPeak": 0.771881103515625,
+  "musicAfterRevealStemRMS": 0,
+  "frozenPictureMeanRGBDifference": 0.015339506172839504,
+  "representativeEncodedFrames": [
+    {
+      "name": "establishing",
+      "t": 0.3,
+      "meanRGBErrorVsReviewedFrame": 3.1289583333333333
+    },
+    {
+      "name": "message",
+      "t": 2,
+      "meanRGBErrorVsReviewedFrame": 2.637390046296296
+    },
+    {
+      "name": "bobo-laugh",
+      "t": 5.3,
+      "meanRGBErrorVsReviewedFrame": 2.6761964699074077
+    },
+    {
+      "name": "second-message",
+      "t": 8.5,
+      "meanRGBErrorVsReviewedFrame": 2.5466377314814816
+    },
+    {
+      "name": "scratch",
+      "t": 15.3,
+      "meanRGBErrorVsReviewedFrame": 2.3626808449074073
+    },
+    {
+      "name": "eyes",
+      "t": 28.2,
+      "meanRGBErrorVsReviewedFrame": 3.164207175925926
+    },
+    {
+      "name": "max-call",
+      "t": 32.3,
+      "meanRGBErrorVsReviewedFrame": 2.6273625578703705
+    },
+    {
+      "name": "peak-fear",
+      "t": 52.4,
+      "meanRGBErrorVsReviewedFrame": 2.1660633680555557
+    },
+    {
+      "name": "scream",
+      "t": 54.2,
+      "meanRGBErrorVsReviewedFrame": 2.2744227430555557
+    },
+    {
+      "name": "vacuum",
+      "t": 56.7,
+      "meanRGBErrorVsReviewedFrame": 2.86525462962963
+    },
+    {
+      "name": "max-prank",
+      "t": 59.2,
+      "meanRGBErrorVsReviewedFrame": 3.438425925925926
+    },
+    {
+      "name": "angry",
+      "t": 62.4,
+      "meanRGBErrorVsReviewedFrame": 3.397158564814815
+    },
+    {
+      "name": "collapse",
+      "t": 65,
+      "meanRGBErrorVsReviewedFrame": 3.589302662037037
+    },
+    {
+      "name": "dignity",
+      "t": 69.3,
+      "meanRGBErrorVsReviewedFrame": 3.4666044560185187
+    },
+    {
+      "name": "freeze",
+      "t": 73.6,
+      "meanRGBErrorVsReviewedFrame": 3.8310112847222224
+    },
+    {
+      "name": "freeze-late",
+      "t": 74.5,
+      "meanRGBErrorVsReviewedFrame": null
+    }
+  ]
+}

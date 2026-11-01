@@ -10,8 +10,8 @@ The current film completely replaces the blue round / orange square visual style
 
 ### Watch / download
 
-- Final film: `renders/Bobo_Max_Episode_001_Dont_Look_Behind_You.mp4`
-- Standalone offline chapter player: `renders/Pixel_Horror_Preview.html` (download and open in a browser)
+- [Download the full-resolution MP4](renders/Bobo_Max_Episode_001_Dont_Look_Behind_You.mp4?raw=true)
+- [Download the standalone offline chapter player](renders/Pixel_Horror_Preview.html?raw=true) — save the HTML and open it in a browser.
 - React studio: `npm run dev -- --port 5173`
 - Encoded-video QC: `renders/pixel-validation.json`
 
