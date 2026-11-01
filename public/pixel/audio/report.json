@@ -1,0 +1,564 @@
+{
+  "duration": 75,
+  "sampleRate": 44100,
+  "channels": 2,
+  "silence": [
+    [
+      10.8,
+      11.7
+    ],
+    [
+      54.7,
+      55.65
+    ]
+  ],
+  "dialogue": [
+    {
+      "start": 4.6,
+      "end": 7.4,
+      "speaker": "bobo",
+      "text": "HAHA! NICE TRY, MAX!",
+      "emotion": "amused",
+      "accent": "MAX!",
+      "words": [
+        {
+          "text": "HAHA!",
+          "start": 4.6,
+          "end": 5.3,
+          "rms": 0.07231957093945687
+        },
+        {
+          "text": "NICE",
+          "start": 5.3,
+          "end": 6,
+          "rms": 0.08377748488960014
+        },
+        {
+          "text": "TRY,",
+          "start": 6,
+          "end": 6.7,
+          "rms": 0.06662631580994267
+        },
+        {
+          "text": "MAX!",
+          "start": 6.7,
+          "end": 7.4,
+          "rms": 0.08812622361610373
+        }
+      ]
+    },
+    {
+      "start": 27.8,
+      "end": 29.6,
+      "speaker": "bobo",
+      "text": "W-WHAT WAS THAT?!",
+      "emotion": "fear",
+      "accent": "THAT?!",
+      "words": [
+        {
+          "text": "W-WHAT",
+          "start": 27.8,
+          "end": 28.400000000000002,
+          "rms": 0.10497572068518679
+        },
+        {
+          "text": "WAS",
+          "start": 28.400000000000002,
+          "end": 29,
+          "rms": 0.08064420991472863
+        },
+        {
+          "text": "THAT?!",
+          "start": 29,
+          "end": 29.6,
+          "rms": 0.09194076229198066
+        }
+      ]
+    },
+    {
+      "start": 31.7,
+      "end": 33.25,
+      "speaker": "max",
+      "text": "BOBO! GET OUT",
+      "emotion": "urgent",
+      "accent": "OUT",
+      "words": [
+        {
+          "text": "BOBO!",
+          "start": 31.7,
+          "end": 32.21666666666667,
+          "rms": 0.05919870880679255
+        },
+        {
+          "text": "GET",
+          "start": 32.21666666666667,
+          "end": 32.733333333333334,
+          "rms": 0.08142880447099259
+        },
+        {
+          "text": "OUT",
+          "start": 32.733333333333334,
+          "end": 33.25,
+          "rms": 0.08134561437513782
+        }
+      ]
+    },
+    {
+      "start": 33.25,
+      "end": 34.7,
+      "speaker": "max",
+      "text": "OF THE HOUSE!",
+      "emotion": "urgent",
+      "accent": "HOUSE!",
+      "words": [
+        {
+          "text": "OF",
+          "start": 33.25,
+          "end": 33.733333333333334,
+          "rms": 0.06525436447626703
+        },
+        {
+          "text": "THE",
+          "start": 33.733333333333334,
+          "end": 34.21666666666667,
+          "rms": 0.08236036428596405
+        },
+        {
+          "text": "HOUSE!",
+          "start": 34.21666666666667,
+          "end": 34.7,
+          "rms": 0.06640956634269261
+        }
+      ]
+    },
+    {
+      "start": 35.4,
+      "end": 36.25,
+      "speaker": "bobo",
+      "text": "WHY?!",
+      "emotion": "fear",
+      "accent": "WHY?!",
+      "words": [
+        {
+          "text": "WHY?!",
+          "start": 35.4,
+          "end": 36.25,
+          "rms": 0.08859658190026061
+        }
+      ]
+    },
+    {
+      "start": 37.3,
+      "end": 38.6,
+      "speaker": "max",
+      "text": "I'M WATCHING",
+      "emotion": "urgent",
+      "accent": "WATCHING",
+      "words": [
+        {
+          "text": "I'M",
+          "start": 37.3,
+          "end": 37.95,
+          "rms": 0.06793920593370391
+        },
+        {
+          "text": "WATCHING",
+          "start": 37.95,
+          "end": 38.6,
+          "rms": 0.060598831235415485
+        }
+      ]
+    },
+    {
+      "start": 38.6,
+      "end": 40,
+      "speaker": "max",
+      "text": "YOUR CAMERA!",
+      "emotion": "urgent",
+      "accent": "CAMERA!",
+      "words": [
+        {
+          "text": "YOUR",
+          "start": 38.6,
+          "end": 39.3,
+          "rms": 0.06265389618116271
+        },
+        {
+          "text": "CAMERA!",
+          "start": 39.3,
+          "end": 40,
+          "rms": 0.07640281659367622
+        }
+      ]
+    },
+    {
+      "start": 41.1,
+      "end": 42.65,
+      "speaker": "max",
+      "text": "THERE'S SOMETHING HUGE",
+      "emotion": "urgent",
+      "accent": "HUGE",
+      "words": [
+        {
+          "text": "THERE'S",
+          "start": 41.1,
+          "end": 41.61666666666667,
+          "rms": 0.07515324665940122
+        },
+        {
+          "text": "SOMETHING",
+          "start": 41.61666666666667,
+          "end": 42.13333333333333,
+          "rms": 0.08510502216895956
+        },
+        {
+          "text": "HUGE",
+          "start": 42.13333333333333,
+          "end": 42.65,
+          "rms": 0.058628912671613354
+        }
+      ]
+    },
+    {
+      "start": 42.65,
+      "end": 44.25,
+      "speaker": "max",
+      "text": "BEHIND YOU!",
+      "emotion": "urgent",
+      "accent": "BEHIND",
+      "words": [
+        {
+          "text": "BEHIND",
+          "start": 42.65,
+          "end": 43.45,
+          "rms": 0.07891971990702384
+        },
+        {
+          "text": "YOU!",
+          "start": 43.45,
+          "end": 44.25,
+          "rms": 0.05976361193639555
+        }
+      ]
+    },
+    {
+      "start": 53.9,
+      "end": 54.65,
+      "speaker": "bobo",
+      "text": "AAAAAAH!",
+      "emotion": "scream",
+      "accent": "AAAAAAH!",
+      "words": [
+        {
+          "text": "AAAAAAH!",
+          "start": 53.9,
+          "end": 54.65,
+          "rms": 0.10528906250029518
+        }
+      ]
+    },
+    {
+      "start": 56.1,
+      "end": 57.6,
+      "speaker": "bobo",
+      "text": "…A VACUUM?",
+      "emotion": "curious",
+      "accent": "VACUUM?",
+      "words": [
+        {
+          "text": "…A",
+          "start": 56.1,
+          "end": 56.85,
+          "rms": 0.0596627694704106
+        },
+        {
+          "text": "VACUUM?",
+          "start": 56.85,
+          "end": 57.6,
+          "rms": 0.08483329157312434
+        }
+      ]
+    },
+    {
+      "start": 58.35,
+      "end": 60.45,
+      "speaker": "max",
+      "text": "HAHAHAHA!",
+      "emotion": "laugh",
+      "accent": "HAHAHAHA!",
+      "words": [
+        {
+          "text": "HAHAHAHA!",
+          "start": 58.35,
+          "end": 60.45,
+          "rms": 0.06801437626537667
+        }
+      ]
+    },
+    {
+      "start": 61.25,
+      "end": 63.5,
+      "speaker": "bobo",
+      "text": "MAX!!! YOU IDIOT!",
+      "emotion": "angry",
+      "accent": "IDIOT!",
+      "words": [
+        {
+          "text": "MAX!!!",
+          "start": 61.25,
+          "end": 62,
+          "rms": 0.08772668549429524
+        },
+        {
+          "text": "YOU",
+          "start": 62,
+          "end": 62.75,
+          "rms": 0.06114516997428367
+        },
+        {
+          "text": "IDIOT!",
+          "start": 62.75,
+          "end": 63.5,
+          "rms": 0.07663539472703006
+        }
+      ]
+    },
+    {
+      "start": 64.1,
+      "end": 66.5,
+      "speaker": "max",
+      "text": "[WHEEZING LAUGHTER]",
+      "emotion": "laugh",
+      "accent": "LAUGHTER]",
+      "words": [
+        {
+          "text": "[WHEEZING",
+          "start": 64.1,
+          "end": 65.3,
+          "rms": 0.053549213918932956
+        },
+        {
+          "text": "LAUGHTER]",
+          "start": 65.3,
+          "end": 66.5,
+          "rms": 0.06155561421493829
+        }
+      ]
+    },
+    {
+      "start": 68.25,
+      "end": 70.8,
+      "speaker": "bobo",
+      "text": "I WASN'T EVEN SCARED.",
+      "emotion": "embarrassed",
+      "accent": "SCARED.",
+      "words": [
+        {
+          "text": "I",
+          "start": 68.25,
+          "end": 68.8875,
+          "rms": 0.06616300046839323
+        },
+        {
+          "text": "WASN'T",
+          "start": 68.8875,
+          "end": 69.525,
+          "rms": 0.08885146219633495
+        },
+        {
+          "text": "EVEN",
+          "start": 69.525,
+          "end": 70.1625,
+          "rms": 0.0771796438415298
+        },
+        {
+          "text": "SCARED.",
+          "start": 70.1625,
+          "end": 70.8,
+          "rms": 0.0763535155571026
+        }
+      ]
+    },
+    {
+      "start": 72.08,
+      "end": 72.85,
+      "speaker": "bobo",
+      "text": "AAAAAH!",
+      "emotion": "scream",
+      "accent": "AAAAAH!",
+      "words": [
+        {
+          "text": "AAAAAH!",
+          "start": 72.08,
+          "end": 72.85,
+          "rms": 0.15747804196810034
+        }
+      ]
+    },
+    {
+      "start": 72.95,
+      "end": 74,
+      "speaker": "max",
+      "text": "HAHAHA!",
+      "emotion": "laugh",
+      "accent": "HAHAHA!",
+      "words": [
+        {
+          "text": "HAHAHA!",
+          "start": 72.95,
+          "end": 74,
+          "rms": 0.06872355811811849
+        }
+      ]
+    }
+  ],
+  "effects": [
+    {
+      "name": "vibration",
+      "at": 0.65,
+      "duration": 0.5,
+      "rms": 0.009021796577095148
+    },
+    {
+      "name": "vibration",
+      "at": 7.85,
+      "duration": 0.45,
+      "rms": 0.009628569353188015
+    },
+    {
+      "name": "scratch",
+      "at": 12.4,
+      "duration": 0.8,
+      "rms": 0.0055199358993428755
+    },
+    {
+      "name": "scratch",
+      "at": 14.8,
+      "duration": 0.9,
+      "rms": 0.003739991211917675
+    },
+    {
+      "name": "scratch",
+      "at": 17.4,
+      "duration": 1.1,
+      "rms": 0.003776144310216592
+    },
+    {
+      "name": "vibration",
+      "at": 20,
+      "duration": 0.55,
+      "rms": 0.008922071596211811
+    },
+    {
+      "name": "vibration",
+      "at": 25.1,
+      "duration": 0.5,
+      "rms": 0.009140145948960504
+    },
+    {
+      "name": "ring",
+      "at": 30,
+      "duration": 1.5,
+      "rms": 0.01334313216819643
+    },
+    {
+      "name": "answer",
+      "at": 31.55,
+      "duration": 0.12,
+      "rms": 0.007355166432683933
+    },
+    {
+      "name": "breath",
+      "at": 44.6,
+      "duration": 1.2,
+      "rms": 0.006247760987062798
+    },
+    {
+      "name": "breath",
+      "at": 47,
+      "duration": 1.4,
+      "rms": 0.005934539953563186
+    },
+    {
+      "name": "scratch",
+      "at": 50.7,
+      "duration": 0.7,
+      "rms": 0.008277819581561915
+    },
+    {
+      "name": "switch",
+      "at": 54.66,
+      "duration": 0.04,
+      "rms": 0.007622222966214483
+    },
+    {
+      "name": "footstep",
+      "at": 55.9,
+      "duration": 0.16,
+      "rms": 0.013284177659484702
+    },
+    {
+      "name": "footstep",
+      "at": 56.3,
+      "duration": 0.16,
+      "rms": 0.01228939188841766
+    },
+    {
+      "name": "footstep",
+      "at": 64.25,
+      "duration": 0.18,
+      "rms": 0.012489569343978841
+    },
+    {
+      "name": "vacuum",
+      "at": 55.65,
+      "duration": 2.35,
+      "rms": 0.005106172137481265
+    },
+    {
+      "name": "jacket",
+      "at": 67.3,
+      "duration": 0.8,
+      "rms": 0.0011797658643426005
+    },
+    {
+      "name": "vacuum",
+      "at": 71,
+      "duration": 1.1,
+      "rms": 0.002464039483127084
+    },
+    {
+      "name": "beep",
+      "at": 72,
+      "duration": 0.1,
+      "rms": 0.016933751042261497
+    },
+    {
+      "name": "bump",
+      "at": 72.08,
+      "duration": 0.15,
+      "rms": 0.029305351312649577
+    },
+    {
+      "name": "jump",
+      "at": 72.12,
+      "duration": 0.38,
+      "rms": 0.016448016590413755
+    },
+    {
+      "name": "sting",
+      "at": 73.4,
+      "duration": 1.2,
+      "rms": 0.024543803395071583
+    }
+  ],
+  "horrorMusicCutAt": 54.7,
+  "musicAfterCutRMS": 0,
+  "method": "Original Web Audio harmonic/glottal-like sources, vowel resonators, FM, deterministic noise and score; no TTS or recordings",
+  "peak": 0.8052978515625,
+  "rms": 0.07071636953883383,
+  "mastering": {
+    "targetLUFS": -17,
+    "truePeakCeilingDBTP": -2
+  }
+}

@@ -1,0 +1,337 @@
+.pixel-app {
+  background: #0c111c;
+  color: #dce4ed;
+}
+.pixel-app .sidebar {
+  background: #101623;
+  border-color: #293145;
+}
+.pixel-brand {
+  display: grid;
+  place-items: center;
+  width: 34px;
+  height: 34px;
+  border: 2px solid #a489bd;
+  color: #d5b4db;
+  font: 800 14px monospace;
+  box-shadow: 3px 3px 0 #453652;
+}
+.pixel-app header {
+  border-color: #283146;
+}
+.pixel-app .nav-item.active {
+  background: #252b42;
+  color: #d4c2e8;
+}
+.pixel-app .nav-item small {
+  border-color: #625876;
+}
+.pixel-app .eyebrow {
+  color: #aaa1c9;
+}
+.pixel-app .sidebar-note {
+  border-color: #30394e;
+  background: #151c2e;
+  padding-bottom: 0;
+}
+.pixel-app .sidebar-note img {
+  width: 100%;
+  height: 143px;
+  object-fit: cover;
+  object-position: center 48%;
+  image-rendering: pixelated;
+  margin-top: 12px;
+  opacity: 0.8;
+}
+.pixel-app .sidebar-note p {
+  font-size: 15px;
+  color: #c4cddd;
+}
+.pixel-app .sidebar-footer {
+  border-color: #2b354b;
+}
+.pixel-app .avatar {
+  background: #35334c;
+  color: #d3c5e0;
+  border-color: #615675;
+}
+.pixel-app .preview-panel,
+.pixel-app .episode-panel {
+  border-color: #333e55;
+  background: #151c2a;
+}
+.pixel-app .preview-stage {
+  background: radial-gradient(ellipse, #2d3450, #111b2b);
+  height: 640px;
+}
+.pixel-app .phone {
+  height: 595px;
+  border-radius: 5px;
+  border-color: #090e1a;
+  outline-color: #4e5a73;
+  image-rendering: pixelated;
+}
+.pixel-app .transport {
+  background: #121b2a;
+  border-color: #344057;
+}
+.pixel-app .play {
+  background: #d2c7df;
+  color: #25213a;
+}
+.pixel-app .play {
+  font-size: 11px;
+}
+.pixel-app input[type='range'] {
+  accent-color: #b9a7d6;
+}
+.pixel-app .panel-top {
+  border-color: #313b51;
+  color: #a8b1cc;
+}
+.pixel-app .green-dot {
+  background: #c19cbd;
+}
+.pixel-app .stage-label {
+  color: #929bb9;
+}
+.pixel-app .stage-label.left {
+  top: 250px;
+}
+.pixel-app .stage-label.right {
+  top: 210px;
+}
+.pixel-app .stage-label em {
+  color: #b6b0cf;
+}
+.pixel-app .stage-label.right .hand-star {
+  color: #b8b5df;
+  font-size: 65px;
+}
+.pixel-app .stage-label > span {
+  color: #687995;
+}
+.pixel-app .detail-heading h2 {
+  font-size: 35px;
+  line-height: 1.16;
+}
+.pixel-app .detail-heading h2 span {
+  color: #bb9ba7;
+}
+.pixel-app .specs {
+  border-color: #303a51;
+}
+.pixel-app .specs small,
+.pixel-app .cast-heading {
+  color: #8c98b3;
+}
+.pixel-app .specs strong {
+  color: #ccd4e3;
+}
+.pixel-app .caption-toggle {
+  border-color: #323e54;
+}
+.pixel-app .switch.on {
+  background: #bba9ce;
+}
+.pixel-app .switch.on:after {
+  background: #2c263c;
+}
+.pixel-app .export-button {
+  background: #d3c9e0;
+  color: #252133;
+}
+.pixel-app .render-command {
+  border-color: #41445e;
+  color: #a9b6cd;
+}
+.pixel-app .export-note {
+  color: #8b98b2;
+}
+.pixel-app .audio-strip {
+  border-color: #303b50;
+}
+.pixel-app .audio-strip span {
+  color: #8796b1;
+}
+.pixel-app .waveform i {
+  background: #aeafcb;
+}
+.pixel-app .scene-grid {
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+}
+.pixel-app .scene-card {
+  background: #151d2c;
+  border-color: #303c53;
+}
+.pixel-app .scene-card.selected {
+  border-color: #b6a2cd;
+}
+.pixel-app .scene-art {
+  height: 155px;
+}
+.pixel-app .scene-art img {
+  object-position: center 42%;
+  image-rendering: pixelated;
+}
+.pixel-app .scene-info {
+  min-height: 113px;
+}
+.pixel-app .scene-info p,
+.pixel-app .scene-info span {
+  color: #8b9db8;
+}
+.pixel-app .project-badge {
+  border-color: #45445f;
+  color: #bdafce;
+}
+.pixel-app .bottom-note {
+  border-color: #2c3549;
+  color: #8c9cb7;
+}
+.pixel-app .small-chip {
+  font-size: 8px;
+  letter-spacing: 1px;
+  color: #9eabc2;
+  border: 1px solid #343f56;
+  padding: 9px;
+}
+.pixel-cast {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 10px 0;
+}
+.pixel-cast img {
+  height: 50px;
+  width: 45px;
+  object-fit: cover;
+  object-position: center 40%;
+  image-rendering: pixelated;
+  border-radius: 4px;
+  border: 1px solid #46526b;
+}
+.pixel-cast b {
+  font-size: 12px;
+  color: #d4dcea;
+}
+.pixel-cast p {
+  font-size: 9px;
+  color: #8e9cb3;
+}
+.pixel-app .character-lab {
+  background: #182236;
+  border-color: #3f4a62;
+  grid-template-columns: minmax(280px, 0.8fr) 1fr;
+}
+.pixel-app .lab-stage {
+  max-height: 700px;
+  overflow: hidden;
+}
+.pixel-app .lab-stage canvas {
+  image-rendering: pixelated;
+}
+.pixel-app .pills button {
+  background: #252b41;
+  border-color: #48516b;
+  color: #b8c5d8;
+}
+.pixel-app .pills .chosen {
+  background: #cabce0;
+  color: #292338;
+  border-color: #cabce0;
+}
+.pixel-app .lab-controls h4 {
+  color: #a7b0cb;
+}
+.pixel-app .lab-controls .lab-note {
+  font-size: 10px;
+  margin-top: 25px;
+}
+.pixel-app .guide {
+  background: #141e30;
+  border-color: #35445e;
+}
+.pixel-app .guide p {
+  color: #9caec8;
+}
+.pixel-app .guide article {
+  border-color: #2e405b;
+}
+.pixel-app .guide code {
+  background: #26334d;
+  color: #c8d1e7;
+}
+.pixel-app .guide article > span {
+  color: #8f9cbd;
+}
+@media (max-width: 1200px) {
+  .pixel-app .scene-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+  .pixel-app .preview-stage {
+    height: 610px;
+  }
+  .pixel-app .phone {
+    height: 565px;
+  }
+}
+@media (max-width: 900px) {
+  .pixel-app .preview-stage {
+    height: 650px;
+  }
+  .pixel-app .phone {
+    height: 610px;
+  }
+  .pixel-app .character-lab {
+    grid-template-columns: 1fr;
+  }
+  .pixel-app .pixel-cast {
+    display: none;
+  }
+  .pixel-app .detail-heading h2 br {
+    display: none;
+  }
+  .pixel-app .episode-panel {
+    padding: 22px;
+  }
+}
+@media (max-width: 600px) {
+  .pixel-app .scene-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .pixel-app .scene-grid > button:last-child {
+    grid-column: auto;
+  }
+  .pixel-app .scene-grid > button:last-child .scene-art {
+    height: 155px;
+  }
+  .pixel-app .preview-stage {
+    height: 495px;
+  }
+  .pixel-app .phone {
+    height: 465px;
+    max-width: calc(100% - 20px);
+  }
+  .pixel-app .scene-info {
+    min-height: 125px;
+  }
+  .pixel-app .stage-label {
+    display: none;
+  }
+  .pixel-app .panel-top {
+    font-size: 6px;
+  }
+  .pixel-app .character-lab .lab-stage {
+    max-height: 610px;
+  }
+  .pixel-app .sidebar-note {
+    display: none;
+  }
+  .pixel-app .nav-item > span {
+    font-size: 20px;
+  }
+  .pixel-app .small-chip {
+    display: none;
+  }
+}

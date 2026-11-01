@@ -1,0 +1,62 @@
+[
+  {
+    "name": "establishing",
+    "t": 0.3
+  },
+  {
+    "name": "message",
+    "t": 2
+  },
+  {
+    "name": "bobo-laugh",
+    "t": 5.3
+  },
+  {
+    "name": "second-message",
+    "t": 8.5
+  },
+  {
+    "name": "scratch",
+    "t": 15.3
+  },
+  {
+    "name": "eyes",
+    "t": 28.2
+  },
+  {
+    "name": "max-call",
+    "t": 32.3
+  },
+  {
+    "name": "peak-fear",
+    "t": 52.4
+  },
+  {
+    "name": "scream",
+    "t": 54.2
+  },
+  {
+    "name": "vacuum",
+    "t": 56.7
+  },
+  {
+    "name": "max-prank",
+    "t": 59.2
+  },
+  {
+    "name": "angry",
+    "t": 62.4
+  },
+  {
+    "name": "collapse",
+    "t": 65
+  },
+  {
+    "name": "dignity",
+    "t": 69.3
+  },
+  {
+    "name": "freeze",
+    "t": 73.6
+  }
+]

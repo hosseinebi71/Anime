@@ -1,0 +1,617 @@
+{
+  "sampleRate": 44100,
+  "duration": 75,
+  "channels": 2,
+  "peak": 0.841949462890625,
+  "rms": 0.10585993951786939,
+  "silence": [
+    [
+      41.5,
+      42.85
+    ],
+    [
+      65,
+      66.35
+    ],
+    [
+      68.85,
+      69.9
+    ]
+  ],
+  "dialogue": [
+    {
+      "speaker": "bobo",
+      "text": "WHAT IS THAT?!",
+      "start": 2,
+      "end": 4.2,
+      "words": [
+        {
+          "text": "WHAT",
+          "start": 2,
+          "end": 2.7333333333333334,
+          "rms": 0.050368174899582084
+        },
+        {
+          "text": "IS",
+          "start": 2.7333333333333334,
+          "end": 3.466666666666667,
+          "rms": 0.05034747677050905
+        },
+        {
+          "text": "THAT?!",
+          "start": 3.466666666666667,
+          "end": 4.2,
+          "rms": 0.050314527140479536
+        }
+      ]
+    },
+    {
+      "speaker": "bobo",
+      "text": "Ooh. Shiny.",
+      "start": 5.2,
+      "end": 7.2,
+      "words": [
+        {
+          "text": "Ooh.",
+          "start": 5.2,
+          "end": 6.2,
+          "rms": 0.0475781261510833
+        },
+        {
+          "text": "Shiny.",
+          "start": 6.2,
+          "end": 7.2,
+          "rms": 0.04753322702605451
+        }
+      ]
+    },
+    {
+      "speaker": "max",
+      "text": "Bobo. Back away.",
+      "start": 8.6,
+      "end": 10.4,
+      "words": [
+        {
+          "text": "Bobo.",
+          "start": 8.6,
+          "end": 9.2,
+          "rms": 0.03799373146699594
+        },
+        {
+          "text": "Back",
+          "start": 9.2,
+          "end": 9.8,
+          "rms": 0.03842555149435195
+        },
+        {
+          "text": "away.",
+          "start": 9.8,
+          "end": 10.4,
+          "rms": 0.038292630793366055
+        }
+      ]
+    },
+    {
+      "speaker": "max",
+      "text": "DO NOT TOUCH IT!",
+      "start": 11.2,
+      "end": 13.7,
+      "words": [
+        {
+          "text": "DO",
+          "start": 11.2,
+          "end": 11.825,
+          "rms": 0.037983460653586994
+        },
+        {
+          "text": "NOT",
+          "start": 11.825,
+          "end": 12.45,
+          "rms": 0.03834363968438957
+        },
+        {
+          "text": "TOUCH",
+          "start": 12.45,
+          "end": 13.075,
+          "rms": 0.03797387426332243
+        },
+        {
+          "text": "IT!",
+          "start": 13.075,
+          "end": 13.7,
+          "rms": 0.038081372121341155
+        }
+      ]
+    },
+    {
+      "speaker": "bobo",
+      "text": "This little thing?",
+      "start": 14.5,
+      "end": 16.4,
+      "words": [
+        {
+          "text": "This",
+          "start": 14.5,
+          "end": 15.133333333333333,
+          "rms": 0.05057672919878752
+        },
+        {
+          "text": "little",
+          "start": 15.133333333333333,
+          "end": 15.766666666666666,
+          "rms": 0.05060033170946575
+        },
+        {
+          "text": "thing?",
+          "start": 15.766666666666666,
+          "end": 16.4,
+          "rms": 0.050632224069284255
+        }
+      ]
+    },
+    {
+      "speaker": "max",
+      "text": "YES. THAT.",
+      "start": 16.8,
+      "end": 17.7,
+      "words": [
+        {
+          "text": "YES.",
+          "start": 16.8,
+          "end": 17.25,
+          "rms": 0.0378950868890707
+        },
+        {
+          "text": "THAT.",
+          "start": 17.25,
+          "end": 17.7,
+          "rms": 0.03814360257086921
+        }
+      ]
+    },
+    {
+      "speaker": "bobo",
+      "text": "JUST ONE LITTLE PRESS…",
+      "start": 18.8,
+      "end": 21.5,
+      "words": [
+        {
+          "text": "JUST",
+          "start": 18.8,
+          "end": 19.475,
+          "rms": 0.04996656720075878
+        },
+        {
+          "text": "ONE",
+          "start": 19.475,
+          "end": 20.15,
+          "rms": 0.04999034419479878
+        },
+        {
+          "text": "LITTLE",
+          "start": 20.15,
+          "end": 20.825,
+          "rms": 0.04995871513464134
+        },
+        {
+          "text": "PRESS…",
+          "start": 20.825,
+          "end": 21.5,
+          "rms": 0.05002048468071855
+        }
+      ]
+    },
+    {
+      "speaker": "max",
+      "text": "Absolutely not.",
+      "start": 22.1,
+      "end": 23.3,
+      "words": [
+        {
+          "text": "Absolutely",
+          "start": 22.1,
+          "end": 22.700000000000003,
+          "rms": 0.03815426146828586
+        },
+        {
+          "text": "not.",
+          "start": 22.700000000000003,
+          "end": 23.3,
+          "rms": 0.03851898564128646
+        }
+      ]
+    },
+    {
+      "speaker": "bobo",
+      "text": "A tiny one?",
+      "start": 24.1,
+      "end": 25.4,
+      "words": [
+        {
+          "text": "A",
+          "start": 24.1,
+          "end": 24.533333333333335,
+          "rms": 0.05058742851496983
+        },
+        {
+          "text": "tiny",
+          "start": 24.533333333333335,
+          "end": 24.966666666666665,
+          "rms": 0.05053144230230925
+        },
+        {
+          "text": "one?",
+          "start": 24.966666666666665,
+          "end": 25.4,
+          "rms": 0.05055367339443401
+        }
+      ]
+    },
+    {
+      "speaker": "max",
+      "text": "Do. Not. Even.",
+      "start": 26.1,
+      "end": 27.6,
+      "words": [
+        {
+          "text": "Do.",
+          "start": 26.1,
+          "end": 26.6,
+          "rms": 0.038078454424139464
+        },
+        {
+          "text": "Not.",
+          "start": 26.6,
+          "end": 27.1,
+          "rms": 0.03799021947656301
+        },
+        {
+          "text": "Even.",
+          "start": 27.1,
+          "end": 27.6,
+          "rms": 0.037856917587466385
+        }
+      ]
+    },
+    {
+      "speaker": "max",
+      "text": "BOBOOOOO!",
+      "start": 28.5,
+      "end": 29.8,
+      "words": [
+        {
+          "text": "BOBOOOOO!",
+          "start": 28.5,
+          "end": 29.8,
+          "rms": 0.035880282616453034
+        }
+      ]
+    },
+    {
+      "speaker": "bobo",
+      "text": "That seems normal.",
+      "start": 31.1,
+      "end": 32.4,
+      "words": [
+        {
+          "text": "That",
+          "start": 31.1,
+          "end": 31.533333333333335,
+          "rms": 0.05067890772701758
+        },
+        {
+          "text": "seems",
+          "start": 31.533333333333335,
+          "end": 31.966666666666665,
+          "rms": 0.05062249494000109
+        },
+        {
+          "text": "normal.",
+          "start": 31.966666666666665,
+          "end": 32.4,
+          "rms": 0.050637555407017795
+        }
+      ]
+    },
+    {
+      "speaker": "max",
+      "text": "NOT NORMAL!",
+      "start": 34.1,
+      "end": 35.5,
+      "words": [
+        {
+          "text": "NOT",
+          "start": 34.1,
+          "end": 34.8,
+          "rms": 0.03748750617998471
+        },
+        {
+          "text": "NORMAL!",
+          "start": 34.8,
+          "end": 35.5,
+          "rms": 0.037252842377986504
+        }
+      ]
+    },
+    {
+      "speaker": "max",
+      "text": "I BLAME YOUUU!",
+      "start": 38.4,
+      "end": 40.5,
+      "words": [
+        {
+          "text": "I",
+          "start": 38.4,
+          "end": 39.1,
+          "rms": 0.037238067788795695
+        },
+        {
+          "text": "BLAME",
+          "start": 39.1,
+          "end": 39.8,
+          "rms": 0.037429703539481496
+        },
+        {
+          "text": "YOUUU!",
+          "start": 39.8,
+          "end": 40.5,
+          "rms": 0.03754122195629114
+        }
+      ]
+    },
+    {
+      "speaker": "bobo",
+      "text": "Max? Buddy?",
+      "start": 43,
+      "end": 44.5,
+      "words": [
+        {
+          "text": "Max?",
+          "start": 43,
+          "end": 43.75,
+          "rms": 0.05035022031069854
+        },
+        {
+          "text": "Buddy?",
+          "start": 43.75,
+          "end": 44.5,
+          "rms": 0.050356005150520855
+        }
+      ]
+    },
+    {
+      "speaker": "bobo",
+      "text": "Behind the button?",
+      "start": 46.1,
+      "end": 47.6,
+      "words": [
+        {
+          "text": "Behind",
+          "start": 46.1,
+          "end": 46.6,
+          "rms": 0.05077095396784241
+        },
+        {
+          "text": "the",
+          "start": 46.6,
+          "end": 47.1,
+          "rms": 0.050800886410503406
+        },
+        {
+          "text": "button?",
+          "start": 47.1,
+          "end": 47.6,
+          "rms": 0.05078041839457356
+        }
+      ]
+    },
+    {
+      "speaker": "bobo",
+      "text": "Oh, this is bad.",
+      "start": 49.1,
+      "end": 50.5,
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 49.1,
+          "end": 49.45,
+          "rms": 0.050840041949430294
+        },
+        {
+          "text": "this",
+          "start": 49.45,
+          "end": 49.8,
+          "rms": 0.05080474523513766
+        },
+        {
+          "text": "is",
+          "start": 49.8,
+          "end": 50.15,
+          "rms": 0.05076832671199293
+        },
+        {
+          "text": "bad.",
+          "start": 50.15,
+          "end": 50.5,
+          "rms": 0.050845479794240304
+        }
+      ]
+    },
+    {
+      "speaker": "bobo",
+      "text": "I can fix this.",
+      "start": 52.1,
+      "end": 54,
+      "words": [
+        {
+          "text": "I",
+          "start": 52.1,
+          "end": 52.575,
+          "rms": 0.05073224501738998
+        },
+        {
+          "text": "can",
+          "start": 52.575,
+          "end": 53.05,
+          "rms": 0.05072003482060449
+        },
+        {
+          "text": "fix",
+          "start": 53.05,
+          "end": 53.525,
+          "rms": 0.050753061666466884
+        },
+        {
+          "text": "this.",
+          "start": 53.525,
+          "end": 54,
+          "rms": 0.05077689458102596
+        }
+      ]
+    },
+    {
+      "speaker": "max",
+      "text": "Do. Not. Laugh.",
+      "start": 56.5,
+      "end": 58.4,
+      "words": [
+        {
+          "text": "Do.",
+          "start": 56.5,
+          "end": 57.13333333333333,
+          "rms": 0.038062283287399926
+        },
+        {
+          "text": "Not.",
+          "start": 57.13333333333333,
+          "end": 57.766666666666666,
+          "rms": 0.037823784778429785
+        },
+        {
+          "text": "Laugh.",
+          "start": 57.766666666666666,
+          "end": 58.4,
+          "rms": 0.03821311576767739
+        }
+      ]
+    },
+    {
+      "speaker": "bobo",
+      "text": "You look… different.",
+      "start": 59.5,
+      "end": 61.4,
+      "words": [
+        {
+          "text": "You",
+          "start": 59.5,
+          "end": 60.13333333333333,
+          "rms": 0.050615326980779016
+        },
+        {
+          "text": "look…",
+          "start": 60.13333333333333,
+          "end": 60.766666666666666,
+          "rms": 0.05055467305938992
+        },
+        {
+          "text": "different.",
+          "start": 60.766666666666666,
+          "end": 61.4,
+          "rms": 0.05060636700249693
+        }
+      ]
+    },
+    {
+      "speaker": "max",
+      "text": "I AM A BANANA.",
+      "start": 62.1,
+      "end": 64,
+      "words": [
+        {
+          "text": "I",
+          "start": 62.1,
+          "end": 62.575,
+          "rms": 0.0379792624931623
+        },
+        {
+          "text": "AM",
+          "start": 62.575,
+          "end": 63.05,
+          "rms": 0.0383146320093693
+        },
+        {
+          "text": "A",
+          "start": 63.05,
+          "end": 63.525,
+          "rms": 0.03795089773647391
+        },
+        {
+          "text": "BANANA.",
+          "start": 63.525,
+          "end": 64,
+          "rms": 0.03817358130469083
+        }
+      ]
+    },
+    {
+      "speaker": "bobo",
+      "text": "Can I eat you?",
+      "start": 66.4,
+      "end": 68.8,
+      "words": [
+        {
+          "text": "Can",
+          "start": 66.4,
+          "end": 67,
+          "rms": 0.050645850213509404
+        },
+        {
+          "text": "I",
+          "start": 67,
+          "end": 67.6,
+          "rms": 0.0506855373330006
+        },
+        {
+          "text": "eat",
+          "start": 67.6,
+          "end": 68.2,
+          "rms": 0.05068269859969189
+        },
+        {
+          "text": "you?",
+          "start": 68.2,
+          "end": 68.8,
+          "rms": 0.050645386828853715
+        }
+      ]
+    },
+    {
+      "speaker": "max",
+      "text": "BOBO! NO!",
+      "start": 70,
+      "end": 71.7,
+      "words": [
+        {
+          "text": "BOBO!",
+          "start": 70,
+          "end": 70.85,
+          "rms": 0.03723447268819138
+        },
+        {
+          "text": "NO!",
+          "start": 70.85,
+          "end": 71.7,
+          "rms": 0.03726742853717559
+        }
+      ]
+    }
+  ],
+  "method": "Web Audio OfflineAudioContext; original oscillator/FM voices, synthesized score and effects",
+  "synthesisPeak": 0.88,
+  "mastering": {
+    "integratedLoudnessTargetLUFS": -16,
+    "truePeakCeilingDBTP": -1.5,
+    "loudnessRangeTargetLU": 9,
+    "processor": "FFmpeg EBU R128 loudnorm after Web Audio synthesis"
+  }
+}
